@@ -42,6 +42,7 @@ Complete the following steps:
 - Append an html tag with that text to the #sample-metadata panel.
 
 5. Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
-   ![image](https://github.com/karenreyesss/belly-button-challenge/assets/151306990/5e5cc4ad-f7ab-48c5-9b0b-1339614f5048)
+   
+![image](https://github.com/karenreyesss/belly-button-challenge/assets/151306990/5e5cc4ad-f7ab-48c5-9b0b-1339614f5048)
 
-6. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
+7. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
